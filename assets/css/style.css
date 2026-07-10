@@ -14,7 +14,7 @@ body {
 }
 a { color: var(--link); text-decoration: none; }
 a:hover { color: var(--link-hover); text-decoration: underline; }
-.wrap { max-width: 860px; margin: 0 auto; padding: 40px 24px 80px; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 40px 24px 80px; }
 
 /* Top profile: photo left, contact right (Weebly-style) */
 .profile {
